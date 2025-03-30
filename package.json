@@ -51,7 +51,7 @@
     "lint-staged": "^13.0.3",
     "nodemon": "^3.1.9",
     "prettier": "^2.7.1",
-    "typescript": "^5.2.2"
+    "typescript": "^5.8.2"
   },
   "lint-staged": {
     "*.{tsx,ts}": [
